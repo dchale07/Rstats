@@ -1,4 +1,4 @@
----
+  ---
 title: "Intro to Git and GitHub"
 output: html_notebook
 ---
